@@ -15,8 +15,11 @@ I’ve worked on **production-grade backend services**, automation tools, and bu
 ---
 
 ### 🏗️ Selected Projects
---Car Garage Management System – Fully automated backend-driven platform for managing vehicle service workflows, job cards, inventory, billing, and customer records. Designed to streamline garage operations, reduce manual effort, and improve operational visibility.
+
 - Gym Management SaaS – Backend platform with member management, billing, analytics, and AI/ML-assisted insights for usage patterns and basic predictions.
+
+- Car Garage Management System – Fully automated backend-driven platform for managing vehicle service workflows, job cards, inventory, billing, and customer records. Designed to streamline garage operations, reduce manual effort, and improve operational visibility.
+
 - Embedded & Platform Systems – Secure provisioning, validation, and system-level debugging for production environments.
 
 
