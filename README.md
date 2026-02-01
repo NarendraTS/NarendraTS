@@ -1,3 +1,5 @@
+github_dark
+
 ## 👋 Hi, I’m Narendra Babu
 
 Software Engineer with 3+ years of experience building embedded-oriented and backend systems. I work close to the system layer, focusing on reliability, debugging, and maintainable software using **C++, Python, and Linux-based environments**.
@@ -54,6 +56,7 @@ C++, Python, embedded systems, backend development, REST APIs, automation testin
 ---
 
 ### 📊 GitHub Activity
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NarendraTS&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraTS&theme=github-dark&hide_border=true" height="165"/>
@@ -63,8 +66,4 @@ C++, Python, embedded systems, backend development, REST APIs, automation testin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraTS&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NarendraTS&icon=0&color=0" />
-</p>
