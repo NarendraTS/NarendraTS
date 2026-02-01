@@ -1,29 +1,70 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on embedded-oriented and backend software, focusing on C++, Python, and system-level debugging.<br>🏗️ I’ve built a SaaS-based Gym Management platform that includes member management, billing, and analytics features, with AI/ML-assisted insights for usage patterns and basic predictions to support operational decision-making.<br>🤝 I’m looking to collaborate on backend systems, embedded software, automation tools, and SaaS platforms involving data-driven features.<br>🛠️ I’m looking for help with improving system design, scalable backend architectures, and applying AI/ML more effectively in real-world products.<br>🌱 I’m currently learning deeper Linux internals, modern C++ practices, backend scalability, and practical applications of AI/ML in SaaS products.<br>💬 Ask me about C++, Python, embedded systems, backend development, REST APIs, automation testing, and system-level debugging.<br>⚡ Fun fact: I enjoy understanding how software behaves end-to-end — from low-level systems to backend services and data-driven features.
+## 👋 Hi, I’m Narendra Babu
 
+Software Engineer with 3+ years of experience building embedded-oriented and backend systems. I work close to the system layer, focusing on reliability, debugging, and maintainable software using **C++, Python, and Linux-based environments**.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Babu-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-babu-ts/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:nandrt.nare@gmail.com)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NarendraTS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NarendraTS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraTS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NarendraTS&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NarendraTS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’ve worked on **production-grade backend services**, automation tools, and built a **SaaS-based Gym Management platform** with **AI/ML-assisted analytics** for usage insights and basic predictions. I enjoy solving problems that span **code, systems, and real-world constraints**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NarendraTS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 What I work on
+- Embedded-oriented software and system-level debugging  
+- Backend services, REST APIs, and automation  
+- Linux-based development and Git-driven workflows  
+- Data-driven features and practical AI/ML integration in SaaS products  
+
+---
+
+### 🏗️ Selected Projects
+- **Gym Management SaaS** – Backend platform with member management, billing, analytics, and AI/ML-assisted insights  
+- **Embedded & Platform Systems** – Secure provisioning, validation, and system-level debugging for production environments  
+
+---
+
+### 🌱 Currently improving
+- Linux internals and OS-level behavior  
+- Modern C++ practices  
+- Backend scalability and reliability  
+- Practical application of AI/ML in real products  
+
+---
+
+### 🤝 Open to collaboration on
+- Backend systems and automation tools  
+- Embedded software and system validation  
+- Developer-focused tooling and SaaS platforms  
+
+---
+
+### 💬 Ask me about
+C++, Python, embedded systems, backend development, REST APIs, automation testing, and system-level debugging.
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Babu-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-babu-ts/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:nandrt.nare@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,linux,git,bash,mysql,html" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NarendraTS&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraTS&theme=github-dark&hide_border=true" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraTS&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NarendraTS&icon=0&color=0" />
+</p>
