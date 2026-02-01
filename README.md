@@ -53,8 +53,9 @@ C++, Python, embedded systems, backend development, REST APIs, automation testin
 
 ---
 
-### 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=NarendraTS&show_icons=true&theme=github_dark&hide_border=true"/>
+### 📌 Projects & Code
+I focus on building backend and system-oriented software.  
+Please explore the pinned repositories below for selected projects and code samples.
 
 
 
