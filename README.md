@@ -61,6 +61,7 @@ C++, Python, embedded systems, backend development, REST APIs, automation testin
 ### 📌 Projects & Code
 I focus on building backend and system-oriented software.  
 Please explore the pinned repositories below for selected projects and code samples.
+I actively use AI tools to enhance productivity across development tasks such as requirement analysis, architecture exploration, debugging support, and test automation. I treat AI as an assistive tool, while core system design, implementation, and validation are driven by engineering fundamentals and hands-on problem solving.
 
 
 
